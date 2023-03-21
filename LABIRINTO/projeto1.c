@@ -1,0 +1,38 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+#define ROWS 10
+#define COLS 10
+
+int maze[ROWS][COLS];
+int jogada_linha, jogada_coluna;
+/////////////////////////////////////////////
+void inic_mapa();
+void printa_mapa();
+void move(char direcao);
+int has_won();
+/////////////////////////////////////////////
+int main()
+{
+
+}
+/////////////////////////////////////////////
+void inic_mapa()
+{
+    
+}
+/////////////////////////////////////////////
+void printa_mapa()
+{
+    
+}
+/////////////////////////////////////////////
+void move(char direcao)
+{
+
+}
+/////////////////////////////////////////////
+int has_won()
+{
+   
