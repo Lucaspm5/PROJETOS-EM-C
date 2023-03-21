@@ -1,2 +1,2 @@
-# Projetos-
+# Projetos
 Projetos feitos em C
